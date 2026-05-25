@@ -1,0 +1,19 @@
+:root {
+    --primary: #8b5a2b;
+    --secondary: #d2b48c;
+    --accent: #e6a15c;
+    --bg: #faf6f0;
+    --text: #2b1e13;
+}
+
+:root.dark {
+    --pimary: #d2b48c;
+    --secondary: #8b5a2b;
+    --accent: #ffb74d;
+    --bg: #18120e;
+    --text: #fdfbf7;
+}
+
+* {
+    margin: 0;
+}
